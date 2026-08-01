@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "round": 21,
-  "generated": "2026-08-01T02:07:08.671671+00:00",
+  "generated": "2026-08-01T08:09:42.072479+00:00",
   "dispersion": {
     "disposals": {
       "type": "normal",
@@ -14957,7 +14957,7 @@
             "player": "Massimo D'Ambrosio",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "INT",
+            "named_pos": "WR",
             "is_ruck": 0,
             "tog": 82.4,
             "exp": {
@@ -15137,7 +15137,7 @@
             "player": "Jack Ginnivan",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "HFFR",
             "is_ruck": 0,
             "tog": 73.2,
             "exp": {
@@ -15182,7 +15182,7 @@
             "player": "Connor Macdonald",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "WR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 77.8,
             "exp": {
@@ -15227,7 +15227,7 @@
             "player": "Josh Ward",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "INT",
+            "named_pos": "R",
             "is_ruck": 0,
             "tog": 74.6,
             "exp": {
@@ -15362,7 +15362,7 @@
             "player": "Cam Mackenzie",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "R",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 70.8,
             "exp": {
@@ -15407,7 +15407,7 @@
             "player": "Josh Weddle",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "INT",
+            "named_pos": "CHB",
             "is_ruck": 0,
             "tog": 86.4,
             "exp": {
@@ -15452,7 +15452,7 @@
             "player": "Bailey Macdonald",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "CHB",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 78.4,
             "exp": {
@@ -15542,7 +15542,7 @@
             "player": "Oliver Greeves",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "HFFR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 66.0,
             "exp": {
@@ -16012,7 +16012,7 @@
             "player": "Charlie Spargo",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "HFFL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 74.8,
             "exp": {
@@ -16192,7 +16192,7 @@
             "player": "Bailey Scott",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "WL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 73.8,
             "exp": {
@@ -16282,7 +16282,7 @@
             "player": "Tom Blamires",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "INT",
+            "named_pos": "WL",
             "is_ruck": 0,
             "tog": 67.8,
             "exp": {
@@ -16327,7 +16327,7 @@
             "player": "Josh Goater",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "HBFL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 68.2,
             "exp": {
@@ -16372,7 +16372,7 @@
             "player": "Zac Banch",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "BPR",
             "is_ruck": 0,
             "tog": 63.6,
             "exp": {
@@ -16642,7 +16642,7 @@
             "player": "Luke Parker",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "BPR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 87.0,
             "exp": {
@@ -16687,7 +16687,7 @@
             "player": "Jack Darling",
             "position": "KEY_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "HFFL",
             "is_ruck": 0,
             "tog": 76.4,
             "exp": {
@@ -16867,7 +16867,7 @@
             "player": "Griffin Logue",
             "position": "KEY_DEFENDER",
             "role": "DEF",
-            "named_pos": "INT",
+            "named_pos": "HBFL",
             "is_ruck": 0,
             "tog": 86.0,
             "exp": {
@@ -17119,7 +17119,7 @@
             "player": "Miles Bergman",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "BPR",
+            "named_pos": "RR",
             "is_ruck": 0,
             "tog": 66.4,
             "exp": {
@@ -17299,7 +17299,7 @@
             "player": "Jack Watkins",
             "position": "MIDFIELDER_FORWARD",
             "role": "MID",
-            "named_pos": "INT",
+            "named_pos": "WL",
             "is_ruck": 0,
             "tog": 65.6,
             "exp": {
@@ -17524,7 +17524,7 @@
             "player": "Christian Moraes",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "WL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 65.2,
             "exp": {
@@ -17704,7 +17704,7 @@
             "player": "Balyn O'Brien",
             "position": "KEY_DEFENDER",
             "role": "DEF",
-            "named_pos": "INT",
+            "named_pos": "BPR",
             "is_ruck": 0,
             "tog": 70.0,
             "exp": {
@@ -17839,7 +17839,7 @@
             "player": "Ollie Wines",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "RR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 70.2,
             "exp": {
@@ -18084,7 +18084,7 @@
             "player": "Xavier O'Halloran",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "INT",
+            "named_pos": "R",
             "is_ruck": 0,
             "tog": 74.4,
             "exp": {
@@ -18444,7 +18444,7 @@
             "player": "Harry Rowston",
             "position": "MIDFIELDER_FORWARD",
             "role": "MID",
-            "named_pos": "R",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 62.6,
             "exp": {
@@ -21758,7 +21758,7 @@
             "player": "Anthony Caminiti",
             "position": "KEY_FORWARD",
             "role": "FWD",
-            "named_pos": "RK",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 85.0,
             "exp": {
@@ -22208,7 +22208,7 @@
             "player": "Rowan Marshall",
             "position": "RUCK",
             "role": "RUCK",
-            "named_pos": "INT",
+            "named_pos": "RK",
             "is_ruck": 1,
             "tog": 77.8,
             "exp": {
@@ -22273,7 +22273,7 @@
             "player": "Hayden McLean",
             "position": "KEY_FORWARD",
             "role": "FWD",
-            "named_pos": "FPR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 67.4,
             "exp": {
@@ -22768,7 +22768,7 @@
             "player": "Logan McDonald",
             "position": "KEY_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "FPR",
             "is_ruck": 0,
             "tog": 78.6,
             "exp": {
