@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "round": 21,
-  "generated": "2026-08-01T08:09:42.072479+00:00",
+  "generated": "2026-08-01T10:30:39.328987+00:00",
   "dispersion": {
     "disposals": {
       "type": "normal",
@@ -277,7 +277,7 @@
             "player": "Matthew Cottrell",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "HBFR",
             "is_ruck": 0,
             "tog": 79.8,
             "exp": {
@@ -412,7 +412,7 @@
             "player": "Francis Evans",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "HFFR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 79.8,
             "exp": {
@@ -502,7 +502,7 @@
             "player": "Billy Wilson",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "INT",
+            "named_pos": "BPR",
             "is_ruck": 0,
             "tog": 78.0,
             "exp": {
@@ -592,7 +592,7 @@
             "player": "Cooper Lord",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "HBFR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 70.6,
             "exp": {
@@ -997,7 +997,7 @@
             "player": "Will Hayward",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "HFFR",
             "is_ruck": 0,
             "tog": 84.0,
             "exp": {
@@ -1087,7 +1087,7 @@
             "player": "Oliver Florent",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "BPR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 81.2,
             "exp": {
@@ -1197,7 +1197,7 @@
             "player": "Hugh McCluggage",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "INT",
+            "named_pos": "C",
             "is_ruck": 0,
             "tog": 71.2,
             "exp": {
@@ -1647,7 +1647,7 @@
             "player": "Will Ashcroft",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "C",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 81.2,
             "exp": {
@@ -1692,7 +1692,7 @@
             "player": "Jaspa Fletcher",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "CHB",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 86.4,
             "exp": {
@@ -1782,7 +1782,7 @@
             "player": "Levi Ashcroft",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "INT",
+            "named_pos": "RK",
             "is_ruck": 0,
             "tog": 75.4,
             "exp": {
@@ -1917,7 +1917,7 @@
             "player": "Darcy Fort",
             "position": "RUCK",
             "role": "RUCK",
-            "named_pos": "RK",
+            "named_pos": "INT",
             "is_ruck": 1,
             "tog": 55.8,
             "exp": {
@@ -2052,7 +2052,7 @@
             "player": "Eric Hipwood",
             "position": "KEY_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "CHB",
             "is_ruck": 0,
             "tog": 72.8,
             "exp": {
