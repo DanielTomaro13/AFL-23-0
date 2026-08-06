@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "round": 22,
-  "generated": "2026-08-06T08:22:18.064461+00:00",
+  "generated": "2026-08-06T11:14:53.952459+00:00",
   "dispersion": {
     "disposals": {
       "type": "normal",
@@ -18113,7 +18113,7 @@
             "player": "Rhylee West",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "FPL",
             "is_ruck": 0,
             "tog": 73.8,
             "exp": {
@@ -18293,7 +18293,7 @@
             "player": "Ryley Sanders",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "RR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 81.2,
             "exp": {
@@ -18608,7 +18608,7 @@
             "player": "Josh Dolan",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "FPL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 63.4,
             "exp": {
@@ -18698,7 +18698,7 @@
             "player": "Tom Liberatore",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "INT",
+            "named_pos": "RR",
             "is_ruck": 0,
             "tog": 72.8,
             "exp": {
@@ -19348,7 +19348,7 @@
             "player": "George Wardlaw",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "RR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 64.4,
             "exp": {
@@ -19663,7 +19663,7 @@
             "player": "Luke Parker",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "BPR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 84.6,
             "exp": {
@@ -19708,7 +19708,7 @@
             "player": "Jack Darling",
             "position": "KEY_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "RR",
             "is_ruck": 0,
             "tog": 78.6,
             "exp": {
@@ -19888,7 +19888,7 @@
             "player": "Griffin Logue",
             "position": "KEY_DEFENDER",
             "role": "DEF",
-            "named_pos": "INT",
+            "named_pos": "BPR",
             "is_ruck": 0,
             "tog": 86.4,
             "exp": {
