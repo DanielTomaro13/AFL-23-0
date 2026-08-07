@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "round": 22,
-  "generated": "2026-08-07T07:04:41.945683+00:00",
+  "generated": "2026-08-07T09:55:08.469797+00:00",
   "dispersion": {
     "disposals": {
       "type": "normal",
@@ -2439,7 +2439,7 @@
             "player": "Sam Draper",
             "position": "RUCK",
             "role": "RUCK",
-            "named_pos": "INT",
+            "named_pos": "RK",
             "is_ruck": 1,
             "tog": 63.8,
             "exp": {
@@ -2709,7 +2709,7 @@
             "player": "Levi Ashcroft",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "INT",
+            "named_pos": "R",
             "is_ruck": 0,
             "tog": 75.0,
             "exp": {
@@ -2889,7 +2889,7 @@
             "player": "Lachie Neale",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "R",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 81.6,
             "exp": {
@@ -2979,7 +2979,7 @@
             "player": "Darcy Fort",
             "position": "RUCK",
             "role": "RUCK",
-            "named_pos": "RK",
+            "named_pos": "INT",
             "is_ruck": 1,
             "tog": 57.6,
             "exp": {
@@ -3114,7 +3114,7 @@
             "player": "Eric Hipwood",
             "position": "KEY_FORWARD",
             "role": "FWD",
-            "named_pos": "FPL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 75.0,
             "exp": {
@@ -3204,7 +3204,7 @@
             "player": "Conor McKenna",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "FPL",
             "is_ruck": 0,
             "tog": 80.6,
             "exp": {
@@ -3359,7 +3359,7 @@
             "player": "Harry Morrison",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "INT",
+            "named_pos": "WL",
             "is_ruck": 0,
             "tog": 84.2,
             "exp": {
@@ -3494,7 +3494,7 @@
             "player": "Massimo D'Ambrosio",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "INT",
+            "named_pos": "WR",
             "is_ruck": 0,
             "tog": 82.2,
             "exp": {
@@ -3629,7 +3629,7 @@
             "player": "Sam Butler",
             "position": "MIDFIELDER_FORWARD",
             "role": "MID",
-            "named_pos": "HFFR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 70.8,
             "exp": {
@@ -3674,7 +3674,7 @@
             "player": "Jack Ginnivan",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "HFFR",
             "is_ruck": 0,
             "tog": 73.0,
             "exp": {
@@ -3719,7 +3719,7 @@
             "player": "Connor Macdonald",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "WL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 78.0,
             "exp": {
@@ -3764,7 +3764,7 @@
             "player": "Josh Ward",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "INT",
+            "named_pos": "R",
             "is_ruck": 0,
             "tog": 73.2,
             "exp": {
@@ -3899,7 +3899,7 @@
             "player": "Cam Mackenzie",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "R",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 71.8,
             "exp": {
@@ -3944,7 +3944,7 @@
             "player": "Josh Weddle",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "CHB",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 84.8,
             "exp": {
@@ -4079,7 +4079,7 @@
             "player": "Karl Amon",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "WR",
+            "named_pos": "CHB",
             "is_ruck": 0,
             "tog": 79.8,
             "exp": {
