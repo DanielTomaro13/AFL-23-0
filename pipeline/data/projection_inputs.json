@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "round": 22,
-  "generated": "2026-08-08T01:04:50.765420+00:00",
+  "generated": "2026-08-08T04:09:03.378390+00:00",
   "dispersion": {
     "disposals": {
       "type": "normal",
@@ -10725,7 +10725,7 @@
             "player": "Kade Chandler",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "FPR",
             "is_ruck": 0,
             "tog": 79.0,
             "exp": {
@@ -10860,7 +10860,7 @@
             "player": "Harrison Petty",
             "position": "KEY_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "HBFL",
             "is_ruck": 0,
             "tog": 83.8,
             "exp": {
@@ -10995,7 +10995,7 @@
             "player": "Bailey Laurie",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "FPR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 63.0,
             "exp": {
@@ -11175,7 +11175,7 @@
             "player": "Matthew Jefferson",
             "position": "KEY_FORWARD",
             "role": "FWD",
-            "named_pos": "FPL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 76.8,
             "exp": {
@@ -11220,7 +11220,7 @@
             "player": "Koltyn Tholstrup",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "INT",
+            "named_pos": "FPL",
             "is_ruck": 0,
             "tog": 86.8,
             "exp": {
@@ -11400,7 +11400,7 @@
             "player": "Tom McDonald",
             "position": "KEY_DEFENDER",
             "role": "DEF",
-            "named_pos": "INT",
+            "named_pos": "CHB",
             "is_ruck": 0,
             "tog": 92.8,
             "exp": {
@@ -11490,7 +11490,7 @@
             "player": "Christian Salem",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "CHB",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 71.6,
             "exp": {
@@ -11625,7 +11625,7 @@
             "player": "Changkuoth Jiath",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "HBFL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 74.6,
             "exp": {
@@ -11825,7 +11825,7 @@
             "player": "Hayden Young",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "R",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 63.2,
             "exp": {
@@ -11960,7 +11960,7 @@
             "player": "Isaiah Dudley",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "CHF",
             "is_ruck": 0,
             "tog": 71.4,
             "exp": {
@@ -12545,7 +12545,7 @@
             "player": "Shai Bolton",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "CHF",
+            "named_pos": "R",
             "is_ruck": 0,
             "tog": 77.2,
             "exp": {
