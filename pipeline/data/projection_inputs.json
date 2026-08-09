@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "round": 22,
-  "generated": "2026-08-09T06:42:31.859256+00:00",
+  "generated": "2026-08-09T09:33:29.014028+00:00",
   "dispersion": {
     "disposals": {
       "type": "normal",
@@ -19097,7 +19097,7 @@
             "player": "Hunter Clark",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "CHB",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 55.8,
             "exp": {
@@ -19502,7 +19502,7 @@
             "player": "Marcus Windhager",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "INT",
+            "named_pos": "CHB",
             "is_ruck": 0,
             "tog": 84.6,
             "exp": {
@@ -19637,7 +19637,7 @@
             "player": "Campbell Lake",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "CHF",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 71.2,
             "exp": {
@@ -19862,7 +19862,7 @@
             "player": "Mason Wood",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "INT",
+            "named_pos": "CHF",
             "is_ruck": 0,
             "tog": 84.0,
             "exp": {
@@ -20602,7 +20602,7 @@
             "player": "Talor Byrne",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "HFFL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 71.4,
             "exp": {
@@ -20917,7 +20917,7 @@
             "player": "Will Hayward",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "HFFL",
             "is_ruck": 0,
             "tog": 83.6,
             "exp": {
