@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "round": 22,
-  "generated": "2026-08-09T04:14:21.248951+00:00",
+  "generated": "2026-08-09T06:42:31.859256+00:00",
   "dispersion": {
     "disposals": {
       "type": "normal",
@@ -26366,7 +26366,7 @@
             "player": "Lachie Schultz",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "HFFL",
+            "named_pos": "FPR",
             "is_ruck": 0,
             "tog": 70.4,
             "exp": {
@@ -26411,7 +26411,7 @@
             "player": "Beau McCreery",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "HFFR",
+            "named_pos": "HFFL",
             "is_ruck": 0,
             "tog": 78.4,
             "exp": {
@@ -26456,7 +26456,7 @@
             "player": "Josh Daicos",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "CHB",
+            "named_pos": "RR",
             "is_ruck": 0,
             "tog": 85.8,
             "exp": {
@@ -26591,7 +26591,7 @@
             "player": "Ned Long",
             "position": "MIDFIELDER_FORWARD",
             "role": "MID",
-            "named_pos": "C",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 73.0,
             "exp": {
@@ -26636,7 +26636,7 @@
             "player": "Liam Puncher",
             "position": "KEY_DEFENDER",
             "role": "DEF",
-            "named_pos": "BPR",
+            "named_pos": "FB",
             "is_ruck": 0,
             "tog": 78.0,
             "exp": {
@@ -26681,7 +26681,7 @@
             "player": "Noah Howes",
             "position": NaN,
             "role": "OTHER",
-            "named_pos": "FB",
+            "named_pos": "BPR",
             "is_ruck": 0,
             "tog": 0.0,
             "exp": {
@@ -26726,7 +26726,7 @@
             "player": "Edward Allan",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "RR",
+            "named_pos": "C",
             "is_ruck": 0,
             "tog": 78.4,
             "exp": {
@@ -26816,7 +26816,7 @@
             "player": "Angus Anderson",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "FF",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 75.4,
             "exp": {
@@ -26861,7 +26861,7 @@
             "player": "Charlie West",
             "position": "KEY_FORWARD",
             "role": "FWD",
-            "named_pos": "FPL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 74.0,
             "exp": {
@@ -26906,7 +26906,7 @@
             "player": "Roan Steele",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "INT",
+            "named_pos": "WL",
             "is_ruck": 0,
             "tog": 75.0,
             "exp": {
@@ -26951,7 +26951,7 @@
             "player": "William Hayes",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "HFFR",
             "is_ruck": 0,
             "tog": 65.8,
             "exp": {
@@ -26996,7 +26996,7 @@
             "player": "Sam Swadling",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "INT",
+            "named_pos": "HBFR",
             "is_ruck": 0,
             "tog": 57.4,
             "exp": {
@@ -27041,7 +27041,7 @@
             "player": "Steele Sidebottom",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "WL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 80.6,
             "exp": {
@@ -27131,7 +27131,7 @@
             "player": "Tim Membrey",
             "position": "KEY_FORWARD",
             "role": "FWD",
-            "named_pos": "FPR",
+            "named_pos": "FF",
             "is_ruck": 0,
             "tog": 82.4,
             "exp": {
@@ -27176,7 +27176,7 @@
             "player": "Daniel McStay",
             "position": "KEY_FORWARD",
             "role": "FWD",
-            "named_pos": "CHF",
+            "named_pos": "FPL",
             "is_ruck": 0,
             "tog": 80.8,
             "exp": {
@@ -27311,7 +27311,7 @@
             "player": "Dan Houston",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "HBFR",
+            "named_pos": "CHB",
             "is_ruck": 0,
             "tog": 78.4,
             "exp": {
@@ -27356,7 +27356,7 @@
             "player": "Lachlan Sullivan",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "CHF",
             "is_ruck": 0,
             "tog": 70.0,
             "exp": {
