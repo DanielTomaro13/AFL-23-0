@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "round": 23,
-  "generated": "2026-08-15T00:49:22.516071+00:00",
+  "generated": "2026-08-15T03:33:59.979401+00:00",
   "dispersion": {
     "disposals": {
       "type": "normal",
@@ -17301,7 +17301,7 @@
             "player": "Tom Brown",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "HBFL",
+            "named_pos": "HBFR",
             "is_ruck": 0,
             "tog": 74.6,
             "exp": {
@@ -17346,7 +17346,7 @@
             "player": "Steely Green",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "CHF",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 76.0,
             "exp": {
@@ -17436,7 +17436,7 @@
             "player": "Sam Lalor",
             "position": "MIDFIELDER_FORWARD",
             "role": "MID",
-            "named_pos": "FF",
+            "named_pos": "FPL",
             "is_ruck": 0,
             "tog": 73.4,
             "exp": {
@@ -17616,7 +17616,7 @@
             "player": "Taj Hotton",
             "position": "MIDFIELDER_FORWARD",
             "role": "MID",
-            "named_pos": "INT",
+            "named_pos": "R",
             "is_ruck": 0,
             "tog": 70.0,
             "exp": {
@@ -17751,7 +17751,7 @@
             "player": "Dion Prestia",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "R",
+            "named_pos": "CHF",
             "is_ruck": 0,
             "tog": 76.2,
             "exp": {
@@ -17796,7 +17796,7 @@
             "player": "Tom Lynch",
             "position": "KEY_FORWARD",
             "role": "FWD",
-            "named_pos": "FPL",
+            "named_pos": "FF",
             "is_ruck": 0,
             "tog": 87.4,
             "exp": {
@@ -17841,7 +17841,7 @@
             "player": "Nick Vlastuin",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "HBFR",
+            "named_pos": "HBFL",
             "is_ruck": 0,
             "tog": 83.6,
             "exp": {
@@ -18581,7 +18581,7 @@
             "player": "Hugo Garcia",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "INT",
+            "named_pos": "RR",
             "is_ruck": 0,
             "tog": 76.8,
             "exp": {
@@ -18896,7 +18896,7 @@
             "player": "Jack Macrae",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "RR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 63.4,
             "exp": {
