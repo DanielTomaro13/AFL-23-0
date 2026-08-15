@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "round": 23,
-  "generated": "2026-08-15T03:33:59.979401+00:00",
+  "generated": "2026-08-15T06:25:35.112033+00:00",
   "dispersion": {
     "disposals": {
       "type": "normal",
@@ -232,7 +232,7 @@
             "player": "Oscar Allen",
             "position": "KEY_FORWARD",
             "role": "FWD",
-            "named_pos": "HFFR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 78.4,
             "exp": {
@@ -322,7 +322,7 @@
             "player": "Sam Draper",
             "position": "RUCK",
             "role": "RUCK",
-            "named_pos": "INT",
+            "named_pos": "RK",
             "is_ruck": 1,
             "tog": 62.0,
             "exp": {
@@ -457,7 +457,7 @@
             "player": "Will Ashcroft",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "C",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 81.6,
             "exp": {
@@ -592,7 +592,7 @@
             "player": "Levi Ashcroft",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "INT",
+            "named_pos": "C",
             "is_ruck": 0,
             "tog": 74.8,
             "exp": {
@@ -862,7 +862,7 @@
             "player": "Darcy Fort",
             "position": "RUCK",
             "role": "RUCK",
-            "named_pos": "RK",
+            "named_pos": "INT",
             "is_ruck": 1,
             "tog": 58.4,
             "exp": {
@@ -1087,7 +1087,7 @@
             "player": "Conor McKenna",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "HFFR",
             "is_ruck": 0,
             "tog": 79.8,
             "exp": {
@@ -1872,7 +1872,7 @@
             "player": "Ethan Read",
             "position": "KEY_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "HFFR",
             "is_ruck": 0,
             "tog": 64.2,
             "exp": {
@@ -1962,7 +1962,7 @@
             "player": "Lachlan Gulbin",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "HFFR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 74.4,
             "exp": {
@@ -2007,7 +2007,7 @@
             "player": "Beau Addinsall",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "WR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 69.4,
             "exp": {
@@ -2187,7 +2187,7 @@
             "player": "Ben Long",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "WR",
             "is_ruck": 0,
             "tog": 78.2,
             "exp": {
@@ -13202,7 +13202,7 @@
             "player": "George Wardlaw",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "RR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 62.4,
             "exp": {
@@ -13517,7 +13517,7 @@
             "player": "Luke Parker",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "BPR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 82.4,
             "exp": {
@@ -13562,7 +13562,7 @@
             "player": "Jack Darling",
             "position": "KEY_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "RR",
             "is_ruck": 0,
             "tog": 81.2,
             "exp": {
@@ -13742,7 +13742,7 @@
             "player": "Griffin Logue",
             "position": "KEY_DEFENDER",
             "role": "DEF",
-            "named_pos": "INT",
+            "named_pos": "BPR",
             "is_ruck": 0,
             "tog": 85.8,
             "exp": {
@@ -14077,7 +14077,7 @@
             "player": "Mark O'Connor",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "INT",
+            "named_pos": "BPR",
             "is_ruck": 0,
             "tog": 77.0,
             "exp": {
@@ -14212,7 +14212,7 @@
             "player": "Lawson Humphries",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "BPR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 82.6,
             "exp": {
@@ -14302,7 +14302,7 @@
             "player": "Oliver Wiltshire",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "HFFR",
             "is_ruck": 0,
             "tog": 75.6,
             "exp": {
@@ -14617,7 +14617,7 @@
             "player": "Patrick Dangerfield",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "FPL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 72.8,
             "exp": {
@@ -14752,7 +14752,7 @@
             "player": "Shaun Mannagh",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "FPL",
             "is_ruck": 0,
             "tog": 73.0,
             "exp": {
@@ -14842,7 +14842,7 @@
             "player": "Brad Close",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "HFFR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 77.6,
             "exp": {
