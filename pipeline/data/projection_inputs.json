@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "round": 23,
-  "generated": "2026-08-16T03:43:07.379535+00:00",
+  "generated": "2026-08-16T06:28:07.145333+00:00",
   "dispersion": {
     "disposals": {
       "type": "normal",
@@ -4329,7 +4329,7 @@
             "player": "Jye Caldwell",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "HFFL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 70.4,
             "exp": {
@@ -4554,7 +4554,7 @@
             "player": "Archie Perkins",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "WL",
             "is_ruck": 0,
             "tog": 76.6,
             "exp": {
@@ -4824,7 +4824,7 @@
             "player": "Isaac Kako",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "FPL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 79.4,
             "exp": {
@@ -4914,7 +4914,7 @@
             "player": "Rhys Unwin",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "FPL",
             "is_ruck": 0,
             "tog": 65.0,
             "exp": {
@@ -5004,7 +5004,7 @@
             "player": "Jacob Farrow",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "INT",
+            "named_pos": "HFFL",
             "is_ruck": 0,
             "tog": 78.4,
             "exp": {
@@ -5049,7 +5049,7 @@
             "player": "Max Kondogiannis",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "WL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 73.0,
             "exp": {
@@ -5564,7 +5564,7 @@
             "player": "Riley Bice",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "CHB",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 79.8,
             "exp": {
@@ -6014,7 +6014,7 @@
             "player": "Harry Kyle",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "INT",
+            "named_pos": "CHB",
             "is_ruck": 0,
             "tog": 78.8,
             "exp": {
@@ -29543,7 +29543,7 @@
             "player": "Matthew Kennedy",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "INT",
+            "named_pos": "CHF",
             "is_ruck": 0,
             "tog": 67.8,
             "exp": {
@@ -29633,7 +29633,7 @@
             "player": "Rhylee West",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "FPR",
             "is_ruck": 0,
             "tog": 72.6,
             "exp": {
@@ -29768,7 +29768,7 @@
             "player": "Jordan Croft",
             "position": "KEY_FORWARD",
             "role": "FWD",
-            "named_pos": "FPR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 76.4,
             "exp": {
@@ -30083,7 +30083,7 @@
             "player": "Luke Kennedy",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "FPL",
             "is_ruck": 0,
             "tog": 65.8,
             "exp": {
@@ -30173,7 +30173,7 @@
             "player": "Louis Emmett",
             "position": "RUCK",
             "role": "RUCK",
-            "named_pos": "CHF",
+            "named_pos": "INT",
             "is_ruck": 1,
             "tog": 55.6,
             "exp": {
@@ -30263,7 +30263,7 @@
             "player": "Josh Dolan",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "FPL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 65.6,
             "exp": {
@@ -30688,7 +30688,7 @@
             "player": "Matthew Cottrell",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "WL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 80.2,
             "exp": {
@@ -30958,7 +30958,7 @@
             "player": "Jagga Smith",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "INT",
+            "named_pos": "RR",
             "is_ruck": 0,
             "tog": 76.4,
             "exp": {
@@ -31003,7 +31003,7 @@
             "player": "Cooper Lord",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "FPL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 73.2,
             "exp": {
@@ -31138,7 +31138,7 @@
             "player": "George Hewett",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "RR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 64.8,
             "exp": {
@@ -31228,7 +31228,7 @@
             "player": "Blake Acres",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "INT",
+            "named_pos": "FPL",
             "is_ruck": 0,
             "tog": 86.2,
             "exp": {
@@ -31453,7 +31453,7 @@
             "player": "Will Hayward",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "WL",
             "is_ruck": 0,
             "tog": 83.2,
             "exp": {
