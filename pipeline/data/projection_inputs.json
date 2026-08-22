@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "round": 24,
-  "generated": "2026-08-22T03:37:13.268451+00:00",
+  "generated": "2026-08-22T06:27:32.256879+00:00",
   "dispersion": {
     "disposals": {
       "type": "normal",
@@ -12797,7 +12797,7 @@
             "player": "Bayley Fritsch",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "FF",
             "is_ruck": 0,
             "tog": 86.2,
             "exp": {
@@ -12977,7 +12977,7 @@
             "player": "Harrison Petty",
             "position": "KEY_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "CHB",
             "is_ruck": 0,
             "tog": 82.2,
             "exp": {
@@ -13022,7 +13022,7 @@
             "player": "Trent Rivers",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "INT",
+            "named_pos": "HBFL",
             "is_ruck": 0,
             "tog": 74.2,
             "exp": {
@@ -13382,7 +13382,7 @@
             "player": "Xavier Lindsay",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "FF",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 73.0,
             "exp": {
@@ -13517,7 +13517,7 @@
             "player": "Tom McDonald",
             "position": "KEY_DEFENDER",
             "role": "DEF",
-            "named_pos": "CHB",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 92.0,
             "exp": {
@@ -13607,7 +13607,7 @@
             "player": "Christian Salem",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "HBFL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 57.4,
             "exp": {
@@ -13987,7 +13987,7 @@
             "player": "Rhylee West",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "FPL",
             "is_ruck": 0,
             "tog": 70.2,
             "exp": {
@@ -14167,7 +14167,7 @@
             "player": "Ryley Sanders",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "INT",
+            "named_pos": "FPR",
             "is_ruck": 0,
             "tog": 82.4,
             "exp": {
@@ -14527,7 +14527,7 @@
             "player": "Josh Dolan",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "FPL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 68.4,
             "exp": {
@@ -14572,7 +14572,7 @@
             "player": "Sam Davidson",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "FPR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 75.8,
             "exp": {
