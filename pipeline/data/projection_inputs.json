@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "round": 24,
-  "generated": "2026-08-22T00:48:35.807715+00:00",
+  "generated": "2026-08-22T03:37:13.268451+00:00",
   "dispersion": {
     "disposals": {
       "type": "normal",
@@ -6491,7 +6491,7 @@
             "player": "Adam Cerra",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "INT",
+            "named_pos": "WL",
             "is_ruck": 0,
             "tog": 72.6,
             "exp": {
@@ -6581,7 +6581,7 @@
             "player": "Matthew Cottrell",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "HFFR",
             "is_ruck": 0,
             "tog": 80.2,
             "exp": {
@@ -6716,7 +6716,7 @@
             "player": "Francis Evans",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "HFFR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 80.0,
             "exp": {
@@ -6761,7 +6761,7 @@
             "player": "Lachlan Cowan",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "HBFL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 83.4,
             "exp": {
@@ -7121,7 +7121,7 @@
             "player": "Blake Acres",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "WL",
+            "named_pos": "HBFL",
             "is_ruck": 0,
             "tog": 85.8,
             "exp": {
@@ -7166,7 +7166,7 @@
             "player": "Mitch McGovern",
             "position": "KEY_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "CHB",
             "is_ruck": 0,
             "tog": 77.2,
             "exp": {
@@ -7346,7 +7346,7 @@
             "player": "Lewis Young",
             "position": "KEY_DEFENDER",
             "role": "DEF",
-            "named_pos": "CHB",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 68.2,
             "exp": {
@@ -7546,7 +7546,7 @@
             "player": "Jordan Clark",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "HBFL",
+            "named_pos": "WR",
             "is_ruck": 0,
             "tog": 83.6,
             "exp": {
@@ -7591,7 +7591,7 @@
             "player": "Hayden Young",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "R",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 62.8,
             "exp": {
@@ -7726,7 +7726,7 @@
             "player": "Isaiah Dudley",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "FPR",
+            "named_pos": "CHF",
             "is_ruck": 0,
             "tog": 73.0,
             "exp": {
@@ -7951,7 +7951,7 @@
             "player": "Patrick Voss",
             "position": "KEY_FORWARD",
             "role": "FWD",
-            "named_pos": "CHF",
+            "named_pos": "FPR",
             "is_ruck": 0,
             "tog": 88.4,
             "exp": {
@@ -7996,7 +7996,7 @@
             "player": "Neil Erasmus",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "WR",
+            "named_pos": "R",
             "is_ruck": 0,
             "tog": 74.0,
             "exp": {
@@ -8041,7 +8041,7 @@
             "player": "Karl Worner",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "INT",
+            "named_pos": "HBFL",
             "is_ruck": 0,
             "tog": 82.4,
             "exp": {
@@ -8086,7 +8086,7 @@
             "player": "Tobyn Murray",
             "position": NaN,
             "role": "OTHER",
-            "named_pos": "INT",
+            "named_pos": "HFFR",
             "is_ruck": 0,
             "tog": 0.0,
             "exp": {
@@ -8131,7 +8131,7 @@
             "player": "Christopher Scerri",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "HFFR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 70.6,
             "exp": {
