@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "round": 24,
-  "generated": "2026-08-22T06:27:32.256879+00:00",
+  "generated": "2026-08-22T09:20:55.389558+00:00",
   "dispersion": {
     "disposals": {
       "type": "normal",
@@ -187,7 +187,7 @@
             "player": "Isaac Cumming",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "INT",
+            "named_pos": "HFFL",
             "is_ruck": 0,
             "tog": 75.2,
             "exp": {
@@ -367,7 +367,7 @@
             "player": "Sam Berry",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "R",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 68.4,
             "exp": {
@@ -547,7 +547,7 @@
             "player": "Zac Taylor",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "FPR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 77.4,
             "exp": {
@@ -592,7 +592,7 @@
             "player": "Jake Soligo",
             "position": "MIDFIELDER_FORWARD",
             "role": "MID",
-            "named_pos": "WL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 76.4,
             "exp": {
@@ -637,7 +637,7 @@
             "player": "Brayden Cook",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "INT",
+            "named_pos": "WL",
             "is_ruck": 0,
             "tog": 80.6,
             "exp": {
@@ -682,7 +682,7 @@
             "player": "Luke Nankervis",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "HFFL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 80.2,
             "exp": {
@@ -952,7 +952,7 @@
             "player": "Alex Neal-Bullen",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "R",
             "is_ruck": 0,
             "tog": 79.8,
             "exp": {
@@ -1087,7 +1087,7 @@
             "player": "Ben Keays",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "FPR",
             "is_ruck": 0,
             "tog": 86.4,
             "exp": {
@@ -1332,7 +1332,7 @@
             "player": "Kieren Briggs",
             "position": "RUCK",
             "role": "RUCK",
-            "named_pos": "INT",
+            "named_pos": "RK",
             "is_ruck": 1,
             "tog": 67.0,
             "exp": {
@@ -1647,7 +1647,7 @@
             "player": "Nicholas Madden",
             "position": "RUCK",
             "role": "RUCK",
-            "named_pos": "RK",
+            "named_pos": "INT",
             "is_ruck": 1,
             "tog": 63.4,
             "exp": {
@@ -11220,7 +11220,7 @@
             "player": "Oisin Mullin",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "R",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 83.0,
             "exp": {
@@ -11310,7 +11310,7 @@
             "player": "Jay Polkinghorne",
             "position": "KEY_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "FPR",
             "is_ruck": 0,
             "tog": 71.2,
             "exp": {
@@ -11400,7 +11400,7 @@
             "player": "Patrick Dangerfield",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "FPR",
+            "named_pos": "R",
             "is_ruck": 0,
             "tog": 72.0,
             "exp": {
@@ -11825,7 +11825,7 @@
             "player": "Mykelti Lefau",
             "position": "KEY_FORWARD",
             "role": "FWD",
-            "named_pos": "FPR",
+            "named_pos": "FPL",
             "is_ruck": 0,
             "tog": 86.2,
             "exp": {
@@ -12185,7 +12185,7 @@
             "player": "Steely Green",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "CHF",
+            "named_pos": "HFFL",
             "is_ruck": 0,
             "tog": 74.6,
             "exp": {
@@ -12230,7 +12230,7 @@
             "player": "Seth Campbell",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "HFFL",
+            "named_pos": "CHF",
             "is_ruck": 0,
             "tog": 78.6,
             "exp": {
@@ -12275,7 +12275,7 @@
             "player": "Luke Trainor",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "BPL",
+            "named_pos": "BPR",
             "is_ruck": 0,
             "tog": 82.2,
             "exp": {
@@ -12410,7 +12410,7 @@
             "player": "Kye Annand",
             "position": "KEY_DEFENDER",
             "role": "DEF",
-            "named_pos": "BPR",
+            "named_pos": "BPL",
             "is_ruck": 0,
             "tog": 85.0,
             "exp": {
@@ -12500,7 +12500,7 @@
             "player": "Sam Grlj",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "FF",
+            "named_pos": "FPR",
             "is_ruck": 0,
             "tog": 71.8,
             "exp": {
@@ -12545,7 +12545,7 @@
             "player": "Tom Lynch",
             "position": "KEY_FORWARD",
             "role": "FWD",
-            "named_pos": "FPL",
+            "named_pos": "FF",
             "is_ruck": 0,
             "tog": 88.8,
             "exp": {
