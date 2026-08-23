@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "round": 24,
-  "generated": "2026-08-23T03:44:26.310779+00:00",
+  "generated": "2026-08-23T06:29:13.665451+00:00",
   "dispersion": {
     "disposals": {
       "type": "normal",
@@ -27786,7 +27786,7 @@
             "player": "Angus Sheldrick",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "R",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 57.2,
             "exp": {
@@ -27831,7 +27831,7 @@
             "player": "Caiden Cleary",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "R",
             "is_ruck": 0,
             "tog": 73.6,
             "exp": {
@@ -28796,7 +28796,7 @@
             "player": "Zac Banch",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "HFFR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 71.4,
             "exp": {
@@ -28841,7 +28841,7 @@
             "player": "George Wardlaw",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "RR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 61.2,
             "exp": {
@@ -29156,7 +29156,7 @@
             "player": "Jack Darling",
             "position": "KEY_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "HFFR",
             "is_ruck": 0,
             "tog": 79.4,
             "exp": {
@@ -29291,7 +29291,7 @@
             "player": "Luke McDonald",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "INT",
+            "named_pos": "RR",
             "is_ruck": 0,
             "tog": 82.2,
             "exp": {
