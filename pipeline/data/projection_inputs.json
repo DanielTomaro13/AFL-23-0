@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "round": 24,
-  "generated": "2026-08-23T00:54:15.695807+00:00",
+  "generated": "2026-08-23T03:44:26.310779+00:00",
   "dispersion": {
     "disposals": {
       "type": "normal",
@@ -12703,7 +12703,7 @@
             "player": "Jye Caldwell",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "HFFL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 68.6,
             "exp": {
@@ -12928,7 +12928,7 @@
             "player": "Archie Perkins",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "WL",
             "is_ruck": 0,
             "tog": 75.6,
             "exp": {
@@ -13198,7 +13198,7 @@
             "player": "Isaac Kako",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "FPL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 80.2,
             "exp": {
@@ -13288,7 +13288,7 @@
             "player": "Rhys Unwin",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "FPL",
             "is_ruck": 0,
             "tog": 65.8,
             "exp": {
@@ -13378,7 +13378,7 @@
             "player": "Jacob Farrow",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "INT",
+            "named_pos": "HFFL",
             "is_ruck": 0,
             "tog": 79.8,
             "exp": {
@@ -13423,7 +13423,7 @@
             "player": "Max Kondogiannis",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "WL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 75.0,
             "exp": {
@@ -14073,7 +14073,7 @@
             "player": "Jase Burgoyne",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "WR",
+            "named_pos": "R",
             "is_ruck": 0,
             "tog": 82.0,
             "exp": {
@@ -14298,7 +14298,7 @@
             "player": "Joe Berry",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "WR",
             "is_ruck": 0,
             "tog": 77.6,
             "exp": {
@@ -14343,7 +14343,7 @@
             "player": "Christian Moraes",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "HBFL",
             "is_ruck": 0,
             "tog": 66.2,
             "exp": {
@@ -14478,7 +14478,7 @@
             "player": "Balyn O'Brien",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "HBFL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 73.0,
             "exp": {
@@ -14748,7 +14748,7 @@
             "player": "Will Brodie",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "R",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 58.8,
             "exp": {
