@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "round": 25,
-  "generated": "2026-08-28T02:17:12.369091+00:00",
+  "generated": "2026-08-28T14:47:22.903708+00:00",
   "dispersion": {
     "disposals": {
       "type": "normal",
@@ -2529,7 +2529,7 @@
             "player": "Connor Budarick",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "INT",
+            "named_pos": "BPL",
             "is_ruck": 0,
             "tog": 69.8,
             "exp": {
@@ -2709,7 +2709,7 @@
             "player": "Michael Sellwood",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "BPL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 83.2,
             "exp": {
@@ -3359,7 +3359,7 @@
             "player": "Patrick Lipinski",
             "position": "MIDFIELDER_FORWARD",
             "role": "MID",
-            "named_pos": "CHF",
+            "named_pos": "WR",
             "is_ruck": 0,
             "tog": 83.2,
             "exp": {
@@ -3539,7 +3539,7 @@
             "player": "Harvey Harrison",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "HFFL",
             "is_ruck": 0,
             "tog": 72.2,
             "exp": {
@@ -3584,7 +3584,7 @@
             "player": "Ned Long",
             "position": "MIDFIELDER_FORWARD",
             "role": "MID",
-            "named_pos": "RR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 72.8,
             "exp": {
@@ -3629,7 +3629,7 @@
             "player": "Edward Allan",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "INT",
+            "named_pos": "RR",
             "is_ruck": 0,
             "tog": 77.0,
             "exp": {
@@ -3764,7 +3764,7 @@
             "player": "Charlie West",
             "position": "KEY_FORWARD",
             "role": "FWD",
-            "named_pos": "FPL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 75.8,
             "exp": {
@@ -3809,7 +3809,7 @@
             "player": "Roan Steele",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "INT",
+            "named_pos": "WL",
             "is_ruck": 0,
             "tog": 78.8,
             "exp": {
@@ -3854,7 +3854,7 @@
             "player": "William Hayes",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "HFFL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 69.8,
             "exp": {
@@ -3944,7 +3944,7 @@
             "player": "Steele Sidebottom",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "WR",
+            "named_pos": "CHF",
             "is_ruck": 0,
             "tog": 80.2,
             "exp": {
@@ -4034,7 +4034,7 @@
             "player": "Jack Crisp",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "WL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 79.6,
             "exp": {
@@ -4124,7 +4124,7 @@
             "player": "Daniel McStay",
             "position": "KEY_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "FPL",
             "is_ruck": 0,
             "tog": 78.0,
             "exp": {
