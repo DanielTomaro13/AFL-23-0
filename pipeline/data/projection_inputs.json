@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "round": 25,
-  "generated": "2026-08-29T05:01:34.495502+00:00",
+  "generated": "2026-08-29T12:04:46.947279+00:00",
   "dispersion": {
     "disposals": {
       "type": "normal",
@@ -277,7 +277,7 @@
             "player": "Kysaiah Pickett",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "HFFL",
+            "named_pos": "FPL",
             "is_ruck": 0,
             "tog": 82.2,
             "exp": {
@@ -367,7 +367,7 @@
             "player": "Trent Rivers",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "HBFL",
+            "named_pos": "WR",
             "is_ruck": 0,
             "tog": 73.2,
             "exp": {
@@ -457,7 +457,7 @@
             "player": "Bailey Laurie",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "FPL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 64.6,
             "exp": {
@@ -592,7 +592,7 @@
             "player": "Koltyn Tholstrup",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "INT",
+            "named_pos": "HFFL",
             "is_ruck": 0,
             "tog": 87.4,
             "exp": {
@@ -727,7 +727,7 @@
             "player": "Harvey Langford",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "WR",
+            "named_pos": "CHF",
             "is_ruck": 0,
             "tog": 76.8,
             "exp": {
@@ -772,7 +772,7 @@
             "player": "Xavier Taylor",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "INT",
+            "named_pos": "HBFR",
             "is_ruck": 0,
             "tog": 71.0,
             "exp": {
@@ -817,7 +817,7 @@
             "player": "Jake Melksham",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "CHF",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 75.2,
             "exp": {
@@ -907,7 +907,7 @@
             "player": "Tom McDonald",
             "position": "KEY_DEFENDER",
             "role": "DEF",
-            "named_pos": "INT",
+            "named_pos": "HBFL",
             "is_ruck": 0,
             "tog": 86.6,
             "exp": {
@@ -952,7 +952,7 @@
             "player": "Jack Viney",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "C",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 79.8,
             "exp": {
@@ -1042,7 +1042,7 @@
             "player": "Ed Langdon",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "HBFR",
+            "named_pos": "C",
             "is_ruck": 0,
             "tog": 90.6,
             "exp": {
@@ -1377,7 +1377,7 @@
             "player": "Brodie Kemp",
             "position": "KEY_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "HFFR",
             "is_ruck": 0,
             "tog": 90.2,
             "exp": {
@@ -1422,7 +1422,7 @@
             "player": "Francis Evans",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "HFFR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 78.6,
             "exp": {
@@ -1557,7 +1557,7 @@
             "player": "Billy Wilson",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "HBFL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 79.0,
             "exp": {
@@ -2142,7 +2142,7 @@
             "player": "Oliver Florent",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "INT",
+            "named_pos": "HBFL",
             "is_ruck": 0,
             "tog": 81.0,
             "exp": {
