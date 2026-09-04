@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "round": 26,
-  "generated": "2026-09-04T07:36:06.369894+00:00",
+  "generated": "2026-09-04T13:04:03.858223+00:00",
   "dispersion": {
     "disposals": {
       "type": "normal",
@@ -6626,7 +6626,7 @@
             "player": "Mark O'Connor",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "WR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 79.6,
             "exp": {
@@ -7301,7 +7301,7 @@
             "player": "Mark Blicavs",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "INT",
+            "named_pos": "WR",
             "is_ruck": 0,
             "tog": 77.2,
             "exp": {
@@ -7771,7 +7771,7 @@
             "player": "Francis Evans",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "FPR",
             "is_ruck": 0,
             "tog": 77.0,
             "exp": {
@@ -8086,7 +8086,7 @@
             "player": "Talor Byrne",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "FPR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 70.4,
             "exp": {
