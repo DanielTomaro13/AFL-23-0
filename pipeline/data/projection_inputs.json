@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "round": 26,
-  "generated": "2026-09-05T02:18:39.223381+00:00",
+  "generated": "2026-09-05T07:17:02.106743+00:00",
   "dispersion": {
     "disposals": {
       "type": "normal",
@@ -4329,7 +4329,7 @@
             "player": "Hayden McLean",
             "position": "KEY_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "HFFR",
             "is_ruck": 0,
             "tog": 64.4,
             "exp": {
@@ -4644,7 +4644,7 @@
             "player": "Braeden Campbell",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "HFFR",
+            "named_pos": "R",
             "is_ruck": 0,
             "tog": 80.0,
             "exp": {
@@ -4824,7 +4824,7 @@
             "player": "Caiden Cleary",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "R",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 73.0,
             "exp": {
@@ -5004,7 +5004,7 @@
             "player": "Dane Rampe",
             "position": "KEY_DEFENDER",
             "role": "DEF",
-            "named_pos": "BPR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 80.8,
             "exp": {
@@ -5049,7 +5049,7 @@
             "player": "Harry Cunningham",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "INT",
+            "named_pos": "BPR",
             "is_ruck": 0,
             "tog": 73.8,
             "exp": {
@@ -5384,7 +5384,7 @@
             "player": "Hugh McCluggage",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "INT",
+            "named_pos": "WR",
             "is_ruck": 0,
             "tog": 71.2,
             "exp": {
@@ -5474,7 +5474,7 @@
             "player": "Zac Bailey",
             "position": "MIDFIELDER_FORWARD",
             "role": "MID",
-            "named_pos": "WR",
+            "named_pos": "C",
             "is_ruck": 0,
             "tog": 79.4,
             "exp": {
@@ -5609,7 +5609,7 @@
             "player": "Sam Draper",
             "position": "RUCK",
             "role": "RUCK",
-            "named_pos": "INT",
+            "named_pos": "RK",
             "is_ruck": 1,
             "tog": 62.8,
             "exp": {
@@ -5654,7 +5654,7 @@
             "player": "Kai Lohmann",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "FPR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 84.8,
             "exp": {
@@ -5744,7 +5744,7 @@
             "player": "Will Ashcroft",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "C",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 83.2,
             "exp": {
@@ -6104,7 +6104,7 @@
             "player": "Darcy Fort",
             "position": "RUCK",
             "role": "RUCK",
-            "named_pos": "RK",
+            "named_pos": "INT",
             "is_ruck": 1,
             "tog": 58.8,
             "exp": {
@@ -6329,7 +6329,7 @@
             "player": "Conor McKenna",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "FPR",
             "is_ruck": 0,
             "tog": 77.2,
             "exp": {
