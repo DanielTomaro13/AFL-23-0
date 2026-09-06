@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://afl23-0.com/sitemap.xml
