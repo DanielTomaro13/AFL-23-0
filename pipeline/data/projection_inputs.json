@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "round": 27,
-  "generated": "2026-09-11T07:40:41.466965+00:00",
+  "generated": "2026-09-11T13:09:12.036834+00:00",
   "dispersion": {
     "disposals": {
       "type": "normal",
@@ -367,7 +367,7 @@
             "player": "Isaiah Dudley",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "HFFL",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 74.4,
             "exp": {
@@ -637,7 +637,7 @@
             "player": "Neil Erasmus",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "INT",
+            "named_pos": "WR",
             "is_ruck": 0,
             "tog": 77.2,
             "exp": {
@@ -1132,7 +1132,7 @@
             "player": "Michael Frederick",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "WR",
+            "named_pos": "HFFL",
             "is_ruck": 0,
             "tog": 75.2,
             "exp": {
@@ -1287,7 +1287,7 @@
             "player": "Gryan Miers",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "HFFL",
+            "named_pos": "R",
             "is_ruck": 0,
             "tog": 84.6,
             "exp": {
@@ -1377,7 +1377,7 @@
             "player": "Mark O'Connor",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "INT",
+            "named_pos": "HBFR",
             "is_ruck": 0,
             "tog": 80.2,
             "exp": {
@@ -1512,7 +1512,7 @@
             "player": "Lawson Humphries",
             "position": "MEDIUM_DEFENDER",
             "role": "DEF",
-            "named_pos": "HBFR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 79.0,
             "exp": {
@@ -1737,7 +1737,7 @@
             "player": "Oisin Mullin",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "R",
+            "named_pos": "RR",
             "is_ruck": 0,
             "tog": 84.6,
             "exp": {
@@ -2097,7 +2097,7 @@
             "player": "Shaun Mannagh",
             "position": "MEDIUM_FORWARD",
             "role": "FWD",
-            "named_pos": "INT",
+            "named_pos": "HFFL",
             "is_ruck": 0,
             "tog": 77.0,
             "exp": {
@@ -2142,7 +2142,7 @@
             "player": "Tom Atkins",
             "position": "MIDFIELDER",
             "role": "MID",
-            "named_pos": "RR",
+            "named_pos": "INT",
             "is_ruck": 0,
             "tog": 75.2,
             "exp": {
