@@ -1,0 +1,91 @@
+{
+  "holdout_seasons": [
+    2024,
+    2025
+  ],
+  "n_train": 87435,
+  "n_holdout": 19608,
+  "generated": "2026-06-24T20:30:01.520523+00:00",
+  "metrics": [
+    {
+      "target": "disposals",
+      "type": "normal",
+      "n": 19608,
+      "model_mae": 3.864,
+      "baseline_mae": 4.107,
+      "improvement_pct": 5.9
+    },
+    {
+      "target": "kicks",
+      "type": "normal",
+      "n": 19608,
+      "model_mae": 2.82,
+      "baseline_mae": 2.977,
+      "improvement_pct": 5.3
+    },
+    {
+      "target": "handballs",
+      "type": "normal",
+      "n": 19608,
+      "model_mae": 2.3,
+      "baseline_mae": 2.426,
+      "improvement_pct": 5.2
+    },
+    {
+      "target": "marks",
+      "type": "normal",
+      "n": 19608,
+      "model_mae": 1.813,
+      "baseline_mae": 1.922,
+      "improvement_pct": 5.7
+    },
+    {
+      "target": "tackles",
+      "type": "normal",
+      "n": 19608,
+      "model_mae": 1.422,
+      "baseline_mae": 1.52,
+      "improvement_pct": 6.4
+    },
+    {
+      "target": "totalClearances",
+      "type": "normal",
+      "n": 19608,
+      "model_mae": 1.012,
+      "baseline_mae": 1.051,
+      "improvement_pct": 3.7
+    },
+    {
+      "target": "hitouts",
+      "type": "normal",
+      "n": 19608,
+      "model_mae": 0.62,
+      "baseline_mae": 0.604,
+      "improvement_pct": -2.7
+    },
+    {
+      "target": "dreamTeamPoints",
+      "type": "normal",
+      "n": 19608,
+      "model_mae": 17.326,
+      "baseline_mae": 18.426,
+      "improvement_pct": 6.0
+    },
+    {
+      "target": "goals",
+      "type": "poisson",
+      "n": 19608,
+      "model_mae": 0.512,
+      "baseline_mae": 0.518,
+      "improvement_pct": 1.2
+    },
+    {
+      "target": "behinds",
+      "type": "poisson",
+      "n": 19608,
+      "model_mae": 0.429,
+      "baseline_mae": 0.438,
+      "improvement_pct": 2.0
+    }
+  ]
+}
