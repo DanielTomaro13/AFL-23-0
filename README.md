@@ -2,6 +2,8 @@
 
 > **Status, September 2026:** GitHub Actions are currently paused on this repo, so automated data refreshes and deploys are not running. The data and any live site reflect the last build.
 
+[![Screenshot of the live site](.github/screenshot.png)](https://afl23-0.com/)
+
 **▶ Play it: [afl23-0.com](https://afl23-0.com/)**
 
 Inspired by [23-0.com](https://23-0.com), rebuilt for Aussie rules. Spin a random
