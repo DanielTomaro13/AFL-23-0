@@ -5,6 +5,7 @@ import Link from "next/link";
 import { BASE_PATH, loadMeta } from "@/lib/game/data";
 import AdSlot, { AD_SLOTS } from "@/components/AdSlot";
 import ModelTeaser from "@/components/ModelTeaser";
+import MarketMoverPromo from "@/components/MarketMoverPromo";
 import {
   Badge, badges, dailyNumber, GameRecord, readProfile, summary, todayMelbourne, todaysDaily,
 } from "@/lib/game/profile";
@@ -100,6 +101,7 @@ export default function Home() {
 
   return (
     <main className="mx-auto max-w-4xl px-4 py-6">
+      <MarketMoverPromo />
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify({
