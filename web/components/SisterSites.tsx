@@ -37,7 +37,9 @@ export default function SisterSites({ active }: { active: SiteKey }) {
       style={{
         display: "flex",
         alignItems: "center",
-        justifyContent: "center",
+        // "safe center" stays centered when the row fits, and falls back to
+        // the start when it overflows so every link can be scrolled into view.
+        justifyContent: "safe center",
         gap: 4,
         fontSize: ".74rem",
         padding: "5px 0.6rem",
