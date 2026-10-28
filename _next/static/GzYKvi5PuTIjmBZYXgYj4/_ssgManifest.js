@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Faflw\u002Fmatch\u002F[id]","\u002Faflw\u002Fplayer\u002F[slug]","\u002Faflw\u002Fseason\u002F[key]","\u002Fclub\u002F[slug]","\u002Fmatch\u002F[id]","\u002Fplayer\u002F[slug]","\u002Fseason\u002F[year]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
