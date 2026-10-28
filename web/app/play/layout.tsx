@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import MarketMoverPromo from "@/components/MarketMoverPromo";
 
 export const metadata: Metadata = {
   title: "Play — spin a club and era, draft your side",
@@ -8,5 +9,10 @@ export const metadata: Metadata = {
 };
 
 export default function PlayLayout({ children }: { children: React.ReactNode }) {
-  return children;
+  return (
+    <>
+      {children}
+      <MarketMoverPromo />
+    </>
+  );
 }
